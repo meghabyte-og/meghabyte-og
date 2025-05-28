@@ -1,12 +1,9 @@
 <!-- GitHub Profile README for Megha Iyengar -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&width=440&lines=Hi+I'm+Megha+Iyengar;MS+CS+Student+@+ASU;Aspiring+Software+Developer;Lover+of+Clean+Code+%26+Creative+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&width=440&lines=Hi+I'm+Megha+Iyengar;MS+CS+Student+@+ASU" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-</p>
 
 <p align="center">
   <em>MS in Computer Science @ Arizona State University</em>  
