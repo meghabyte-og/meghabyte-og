@@ -23,10 +23,10 @@
 
 ```txt
 Languages:         Python | C | C++ | HTML | CSS | JavaScript
-IDEs/Tools:        VS Code | IntelliJ | PyCharm | Jupyter | Git | GitHub | Azure | Sentinel
+IDEs/Tools:        VS Code | IntelliJ | PyCharm | Jupyter | Git | GitHub | Azure | Microsoft Sentinel
 AI/Math Libraries: NumPy | pandas | matplotlib | scikit-learn | TensorFlow | JuMP | ForwardDiff
 
-
+```
 ### 📌 Projects
 
 #### 🎮 Resource Allocation in 5G Networks using Game Theory
@@ -38,17 +38,9 @@ Security dashboard using Azure, Microsoft Sentinel & PowerShell to map login att
 🔗 GitHub repo available on profile
 
 #### 💖 Be My Valentine?
-A playful web app built with HTML, CSS, JS that asks “Will you be my Valentine?” — and dodges the “No” button!  
+A playful web app built with HTML, CSS, and JavaScript that asks “Will you be my Valentine?” — and dodges the “No” button!  
 🔗 GitHub repo available on profile
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghabyte-og&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghabyte-og&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
