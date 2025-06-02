@@ -5,9 +5,7 @@
 </h1>
 
 
-<p align="center">
-  <em>MS in Computer Science @ Arizona State University</em>  
-</p>
+
 
 ---
 
