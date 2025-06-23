@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 
-🎓 **MS in Computer Science** @ Arizona State University  
+🎓 **Computer Science** @ Arizona State University  
 💼 Aspiring **Software Developer** focused on building secure, scalable, and smart systems  
 🔍 Interests: Game Theory, Cybersecurity Monitoring, and Full-Stack Web Development  
 
