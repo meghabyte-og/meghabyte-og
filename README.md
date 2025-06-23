@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Megha Iyengar -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&width=440&lines=Hi+I'm+Megha+Iyengar;MS+CS+Student+@+ASU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&width=440&lines=Hi+I'm+Megha+Iyengar;CS+Student+@+ASU" alt="Typing SVG" />
 </h1>
 
 
