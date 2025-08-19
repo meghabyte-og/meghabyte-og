@@ -35,10 +35,6 @@ A strategic-form game in Julia & Python simulating competition in 5G networks. C
 Security dashboard using Azure, Microsoft Sentinel & PowerShell to map login attempts globally.  
 🔗 GitHub repo available on profile
 
-#### 💖 Be My Valentine?
-A playful web app built with HTML, CSS, and JavaScript that asks “Will you be my Valentine?” — and dodges the “No” button!  
-🔗 GitHub repo available on profile
-
 
 ### 🏆 GitHub Trophies
 
