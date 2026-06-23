@@ -3,14 +3,9 @@
 <!-- ░ HERO BANNER ░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fab,50:f15bb5,100:ff006e&height=180&section=header&text=Megha%20Iyengar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20%40%20Arizona%20State%20University&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
 
-<!-- ░ TYPING TAGLINE ░ -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=FF4DA6&center=true&vCenter=true&width=640&height=45&lines=I+read+your+login+attempts+so+you+don't+have+to;Caffeine+in%2C+commits+out+%E2%80%94+game+theory+optional" alt="typing" />
-</h3>
-
 <br/>
 
-<!-- ░ SKILLS — compact badges ░ -->
+<!-- ░ SKILLS  compact badges ░ -->
 <h3 align="center">Tech</h3>
 
 <p align="center">
@@ -19,14 +14,10 @@
   <img src="https://img.shields.io/badge/C++-F15BB5?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FF8FAB?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Julia-FF006E?style=flat-square&logo=julia&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF4DA6?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-D6336C?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-F15BB5?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-FF8FAB?style=flat-square&logo=numpy&logoColor=black" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Azure-FF006E?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-FF4DA6?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-D6336C?style=flat-square&logo=git&logoColor=white" />
@@ -44,7 +35,7 @@
 
 **🎯 5G Resource Allocation · Game Theory**
 
-A strategic-form game in Julia & Python simulating competition across 5G networks — computing the mixed-strategy Nash equilibrium from live QoS data.
+A strategic-form game in Julia & Python simulating competition across 5G networks, computing the mixed-strategy Nash equilibrium from live QoS data.
 
 <sub>`Julia` `Python` `JuMP` `Game Theory`</sub>
 
@@ -68,7 +59,7 @@ A live security dashboard on Azure, Microsoft Sentinel & PowerShell that maps gl
 
 **🔍 WinExplain · PE Binary Analyzer**
 
-A Python tool that parses Windows PE files, extracts imported DLLs & API calls, and categorizes a binary's likely capabilities — file I/O, networking, registry — into clean text / JSON / HTML reports.
+A Python tool that parses Windows PE files, extracts imported DLLs & API calls, and categorizes a binary's likely capabilities- file I/O, networking, registry  into clean text / JSON / HTML reports.
 
 <sub>`Python` `pefile` `PE Analysis` `Malware Triage`</sub>
 
@@ -79,7 +70,7 @@ A Python tool that parses Windows PE files, extracts imported DLLs & API calls, 
 
 **🗄️ Mini SQL Query Engine** &nbsp;<img src="https://img.shields.io/badge/WIP-ff8fab?style=flat-square" align="top"/>
 
-A from-scratch SQL engine in Python running SELECT / WHERE / JOIN / GROUP BY over on-disk tables — with a query planner, pluggable operators, B-tree indexing, and a write-ahead log for crash recovery.
+A from-scratch SQL engine in Python running SELECT / WHERE / JOIN / GROUP BY over on-disk tables with a query planner, pluggable operators, B-tree indexing, and a write-ahead log for crash recovery.
 
 <sub>`Python` `B-Tree` `Query Planner` `WAL`</sub>
 
@@ -91,7 +82,7 @@ A from-scratch SQL engine in Python running SELECT / WHERE / JOIN / GROUP BY ove
 
 <br/>
 
-<!-- ░ ACTIVITY GRAPH — smooth full-width area chart ░ -->
+<!-- ░ ACTIVITY GRAPH  smooth full-width area chart ░ -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meghabyte-og&hide_border=true&hide_title=true&bg_color=0d1117&color=ff8fab&line=f15bb5&point=ff006e&area=true&area_color=f15bb5" width="100%" alt="activity graph"/>
 
 <!-- ░ STATS ROW ░ -->
