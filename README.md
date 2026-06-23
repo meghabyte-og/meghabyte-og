@@ -66,24 +66,24 @@ A live security dashboard on Azure, Microsoft Sentinel & PowerShell that maps gl
 <tr>
 <td width="50%" valign="top">
 
-**✨ Project Three · TITLE HERE**
+**🔍 WinExplain · PE Binary Analyzer**
 
-One or two punchy lines on what it does and why it's cool. Swap this text for the real thing.
+A Python tool that parses Windows PE files, extracts imported DLLs & API calls, and categorizes a binary's likely capabilities — file I/O, networking, registry — into clean text / JSON / HTML reports.
 
-<sub>`Tag` `Tag` `Tag`</sub>
+<sub>`Python` `pefile` `PE Analysis` `Malware Triage`</sub>
 
-[**View repo →**](https://github.com/meghabyte-og)
+[**View repo →**](https://github.com/meghabyte-og/win-explain)
 
 </td>
 <td width="50%" valign="top">
 
-**🚀 Project Four · TITLE HERE**
+**🗄️ Mini SQL Query Engine** &nbsp;<img src="https://img.shields.io/badge/WIP-ff8fab?style=flat-square" align="top"/>
 
-One or two punchy lines on what it does and why it's cool. Swap this text for the real thing.
+A from-scratch SQL engine in Python running SELECT / WHERE / JOIN / GROUP BY over on-disk tables — with a query planner, pluggable operators, B-tree indexing, and a write-ahead log for crash recovery.
 
-<sub>`Tag` `Tag` `Tag`</sub>
+<sub>`Python` `B-Tree` `Query Planner` `WAL`</sub>
 
-[**View repo →**](https://github.com/meghabyte-og)
+<sub>🚧 Repo coming soon</sub>
 
 </td>
 </tr>
