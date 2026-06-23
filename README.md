@@ -36,13 +36,12 @@ A security dashboard built on Azure, Microsoft Sentinel & PowerShell that maps g
 ### Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meghabyte-og&show_icons=true&hide_border=true&title_color=00f5d4&icon_color=f15bb5&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghabyte-og&layout=compact&hide_border=true&title_color=00f5d4&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </p>
 
 <br/>
 
-## `🐍` &nbsp;BONUS STAGE &nbsp;`//`&nbsp; CONTRIBUTION SNAKE
+## &nbsp;BONUS STAGE &nbsp;`//`&nbsp; CONTRIBUTION SNAKE
 
 <div align="center">
 
