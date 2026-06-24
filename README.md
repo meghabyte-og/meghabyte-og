@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Azure-FF006E?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-FF4DA6?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-D6336C?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-F15BB5?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <br/>
