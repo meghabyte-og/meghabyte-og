@@ -87,7 +87,6 @@ A from-scratch SQL engine in Python running SELECT / WHERE / JOIN / GROUP BY ove
 <!-- ░ STATS ROW ░ -->
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghabyte-og&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  <img height="160" src="https://streak-stats.demolab.com?user=meghabyte-og&hide_border=true&background=0D1117&ring=FF4DA6&fire=FF006E&currStreakLabel=FF4DA6&sideLabels=F15BB5&dates=8b949e&sideNums=FF8FAB&currStreakNum=ffffff" />
 </p>
 
 <br/>
