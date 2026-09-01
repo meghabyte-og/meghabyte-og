@@ -2,8 +2,6 @@
 
 Computer Science @ Arizona State University
 
-Interested in systems, security, machine learning, and software engineering.
-
 ## Projects
 
 ### 5G Resource Allocation
