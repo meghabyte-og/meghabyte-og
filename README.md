@@ -58,16 +58,6 @@ A SQL engine built from scratch in Python with joins, grouping, query planning, 
 </tr>
 </table>
 
-## Skills
-
-**Languages:** Python, C, C++, JavaScript, Julia
-
-**ML/Data:** TensorFlow, scikit-learn, pandas, NumPy
-
-**Cloud/Security:** Azure, Microsoft Sentinel, KQL, PowerShell
-
-**Tools:** Git
-
 ## Links
 
 [GitHub](https://github.com/meghabyte-og) ·
