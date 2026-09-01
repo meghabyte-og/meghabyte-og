@@ -1,121 +1,51 @@
-<!-- Megha Iyengar · GitHub Profile README -->
+# Megha Iyengar
 
-<!-- ░ HERO BANNER ░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8fab,50:f15bb5,100:ff006e&height=180&section=header&text=Megha%20Iyengar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20%40%20Arizona%20State%20University&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
+Computer Science @ Arizona State University
 
-<br/>
+Interested in systems, security, machine learning, and software engineering.
 
-<!-- ░ SKILLS  compact badges ░ -->
-<h3 align="center">Tech</h3>
+## Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FF4DA6?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-D6336C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-F15BB5?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FF8FAB?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Julia-FF006E?style=flat-square&logo=julia&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF4DA6?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-D6336C?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-F15BB5?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-FF8FAB?style=flat-square&logo=numpy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure-FF006E?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-FF4DA6?style=flat-square&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-D6336C?style=flat-square&logo=git&logoColor=white" />
-</p>
+### 5G Resource Allocation
+Game-theoretic simulation of resource allocation across competing 5G networks using Julia and Python.
 
-<br/>
+`Julia` `Python` `JuMP` `Game Theory`
 
-<!-- ░ PROJECTS ░ -->
-<h3 align="center">Projects</h3>
+[Repository](https://github.com/meghabyte-og/5g-resource-allocation-game-theory)
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
+### SIEM on Azure
+Security monitoring dashboard using Azure Sentinel, PowerShell, and KQL to visualize global login activity.
 
-**🎯 5G Resource Allocation · Game Theory**
+`Azure` `Microsoft Sentinel` `PowerShell` `KQL`
 
-A strategic-form game in Julia & Python simulating competition across 5G networks, computing the mixed-strategy Nash equilibrium from live QoS data.
+[GitHub](https://github.com/meghabyte-og)
 
-<sub>`Julia` `Python` `JuMP` `Game Theory`</sub>
+### WinExplain
+Python-based PE binary analyzer for extracting imports and API calls and generating reports for malware triage.
 
-[**View repo →**](https://github.com/meghabyte-og/5g-resource-allocation-game-theory)
+`Python` `pefile` `PE Analysis`
 
-</td>
-<td width="50%" valign="top">
+[Repository](https://github.com/meghabyte-og/win-explain)
 
-**🛰️ SIEM on Azure · Geo Visualization**
+### Mini SQL Query Engine
+A SQL engine built from scratch in Python with joins, grouping, query planning, B-tree indexes, and write-ahead logging.
 
-A live security dashboard on Azure, Microsoft Sentinel & PowerShell that maps global login attacks onto a real-time world map.
+`Python` `B-Trees` `Query Planning` `WAL`
 
-<sub>`Azure` `Sentinel` `PowerShell` `KQL`</sub>
+_Work in progress_
 
-[**View repo →**](https://github.com/meghabyte-og)
+## Skills
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Languages:** Python, C, C++, JavaScript, Julia
 
-**🔍 WinExplain · PE Binary Analyzer**
+**ML/Data:** TensorFlow, scikit-learn, pandas, NumPy
 
-A Python tool that parses Windows PE files, extracts imported DLLs & API calls, and categorizes a binary's likely capabilities- file I/O, networking, registry  into clean text / JSON / HTML reports.
+**Cloud/Security:** Azure, Microsoft Sentinel, KQL, PowerShell
 
-<sub>`Python` `pefile` `PE Analysis` `Malware Triage`</sub>
+**Tools:** Git
 
-[**View repo →**](https://github.com/meghabyte-og/win-explain)
+## Links
 
-</td>
-<td width="50%" valign="top">
-
-**🗄️ Mini SQL Query Engine** &nbsp;<img src="https://img.shields.io/badge/WIP-ff8fab?style=flat-square" align="top"/>
-
-A from-scratch SQL engine in Python running SELECT / WHERE / JOIN / GROUP BY over on-disk tables with a query planner, pluggable operators, B-tree indexing, and a write-ahead log for crash recovery.
-
-<sub>`Python` `B-Tree` `Query Planner` `WAL`</sub>
-
-<sub>🚧 Repo coming soon</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ░ ACTIVITY GRAPH  smooth full-width area chart ░ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghabyte-og&hide_border=true&hide_title=true&bg_color=0d1117&color=ff8fab&line=f15bb5&point=ff006e&area=true&area_color=f15bb5" width="100%" alt="activity graph"/>
-
-<!-- ░ STATS ROW ░ -->
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghabyte-og&layout=compact&hide_border=true&title_color=ff4da6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</p>
-
-<br/>
-
-<!-- ░ CONTRIBUTION SNAKE ░ -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ░ CONNECT ░ -->
-<p align="center">
-  <a href="mailto:meghaiyengarkb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff006e?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/meghaiyengar">
-    <img src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/meghabyte-og">
-    <img src="https://img.shields.io/badge/GitHub-f15bb5?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<!-- ░ FOOTER WAVE ░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:f15bb5,100:ff8fab&height=100&section=footer" width="100%" alt="footer"/>
+[GitHub](https://github.com/meghabyte-og) ·
+[LinkedIn](https://www.linkedin.com/in/meghaiyengar) ·
+[Email](mailto:meghaiyengarkb@gmail.com)
